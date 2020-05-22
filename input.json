@@ -1,0 +1,227 @@
+[
+  {
+    "name": "Mercury",
+    "epochTime": {
+      "date": {
+        "year": 2000,
+        "month": 1,
+        "day": 1
+      },
+      "time": {
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "nano": 0
+      }
+    },
+    "inclination": 7.00487,
+    "semiMajorAxis": 0.38709893,
+    "eccentricity": 0.20563069,
+    "orbitalPeriod": 88.0,
+    "longitudeOfAscendingNode": 48.33167,
+    "longitudeOfPeriapsis": 77.45645,
+    "meanLongitude": 252.25084,
+    "planetType": "PLANET",
+    "satellites": []
+  },
+  {
+    "name": "Venus",
+    "epochTime": {
+      "date": {
+        "year": 2000,
+        "month": 1,
+        "day": 1
+      },
+      "time": {
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "nano": 0
+      }
+    },
+    "inclination": 3.39471,
+    "semiMajorAxis": 0.72333199,
+    "eccentricity": 0.00677323,
+    "orbitalPeriod": 224.7,
+    "longitudeOfAscendingNode": 76.68069,
+    "longitudeOfPeriapsis": 131.53298,
+    "meanLongitude": 181.97973,
+    "planetType": "PLANET",
+    "satellites": []
+  },
+  {
+    "name": "Earth",
+    "epochTime": {
+      "date": {
+        "year": 2000,
+        "month": 1,
+        "day": 1
+      },
+      "time": {
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "nano": 0
+      }
+    },
+    "inclination": 5.0E-5,
+    "semiMajorAxis": 1.00000011,
+    "eccentricity": 0.01671022,
+    "orbitalPeriod": 365.25,
+    "longitudeOfAscendingNode": -11.26064,
+    "longitudeOfPeriapsis": 102.94719,
+    "meanLongitude": 100.46435,
+    "planetType": "PLANET",
+    "satellites": []
+  },
+  {
+    "name": "Mars",
+    "epochTime": {
+      "date": {
+        "year": 2000,
+        "month": 1,
+        "day": 1
+      },
+      "time": {
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "nano": 0
+      }
+    },
+    "inclination": 1.85061,
+    "semiMajorAxis": 1.52366231,
+    "eccentricity": 0.09341233,
+    "orbitalPeriod": 687.0,
+    "longitudeOfAscendingNode": 49.57854,
+    "longitudeOfPeriapsis": 336.04084,
+    "meanLongitude": 355.45332,
+    "planetType": "PLANET",
+    "satellites": []
+  },
+  {
+    "name": "Jupiter",
+    "epochTime": {
+      "date": {
+        "year": 2000,
+        "month": 1,
+        "day": 1
+      },
+      "time": {
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "nano": 0
+      }
+    },
+    "inclination": 1.3053,
+    "semiMajorAxis": 5.20336301,
+    "eccentricity": 0.04839266,
+    "orbitalPeriod": 4331.0,
+    "longitudeOfAscendingNode": 100.55615,
+    "longitudeOfPeriapsis": 14.75385,
+    "meanLongitude": 34.40438,
+    "planetType": "PLANET",
+    "satellites": []
+  },
+  {
+    "name": "Saturn",
+    "epochTime": {
+      "date": {
+        "year": 2000,
+        "month": 1,
+        "day": 1
+      },
+      "time": {
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "nano": 0
+      }
+    },
+    "inclination": 2.48446,
+    "semiMajorAxis": 9.53707032,
+    "eccentricity": 0.0541506,
+    "orbitalPeriod": 10747.0,
+    "longitudeOfAscendingNode": 113.71504,
+    "longitudeOfPeriapsis": 92.43194,
+    "meanLongitude": 49.94432,
+    "planetType": "PLANET",
+    "satellites": []
+  },
+  {
+    "name": "Uranus",
+    "epochTime": {
+      "date": {
+        "year": 2000,
+        "month": 1,
+        "day": 1
+      },
+      "time": {
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "nano": 0
+      }
+    },
+    "inclination": 0.76986,
+    "semiMajorAxis": 19.19126393,
+    "eccentricity": 0.04716771,
+    "orbitalPeriod": 30589.0,
+    "longitudeOfAscendingNode": 74.22988,
+    "longitudeOfPeriapsis": 170.96424,
+    "meanLongitude": 313.23218,
+    "planetType": "PLANET",
+    "satellites": []
+  },
+  {
+    "name": "Neptune",
+    "epochTime": {
+      "date": {
+        "year": 2000,
+        "month": 1,
+        "day": 1
+      },
+      "time": {
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "nano": 0
+      }
+    },
+    "inclination": 1.76917,
+    "semiMajorAxis": 30.06896348,
+    "eccentricity": 0.00858587,
+    "orbitalPeriod": 59800.0,
+    "longitudeOfAscendingNode": 131.72169,
+    "longitudeOfPeriapsis": 44.97135,
+    "meanLongitude": 304.88003,
+    "planetType": "PLANET",
+    "satellites": []
+  },
+  {
+    "name": "Pluto",
+    "epochTime": {
+      "date": {
+        "year": 2000,
+        "month": 1,
+        "day": 1
+      },
+      "time": {
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "nano": 0
+      }
+    },
+    "inclination": 17.14175,
+    "semiMajorAxis": 39.48168677,
+    "eccentricity": 0.24880766,
+    "orbitalPeriod": 90560.0,
+    "longitudeOfAscendingNode": 110.30347,
+    "longitudeOfPeriapsis": 224.06676,
+    "meanLongitude": 238.92881,
+    "planetType": "PLANET",
+    "satellites": []
+  }
+]
