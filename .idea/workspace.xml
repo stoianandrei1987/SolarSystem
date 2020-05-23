@@ -3,24 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="3d930997-f1d8-4cb9-a0f9-b6c4321db486" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Calculate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/planets/services/Calculate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/IOClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/planets/services/IOUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/planets/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Planet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/planets/models/Planet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/PlanetType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/planets/models/PlanetType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/planets/models/Result.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/WriteFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/planets/WriteFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/XYZCoords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/planets/models/XYZCoords.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Calculate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/IOClass$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/IOClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Planet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/PlanetType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Result.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/WriteFile$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/WriteFile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/XYZCoords.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/planets/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/planets/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/planets/models/Planet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/planets/models/Planet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/planets/models/PlanetType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/planets/models/PlanetType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/planets/models/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/planets/models/Result.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/planets/models/XYZCoords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/planets/models/XYZCoords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/planets/services/Calculate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/planets/services/Calculate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/planets/services/IOUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/planets/services/IOUtils.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

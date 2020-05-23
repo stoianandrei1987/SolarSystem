@@ -15,9 +15,29 @@ public class Planet {
     private Double longitudeOfAscendingNode;
     private Double longitudeOfPeriapsis;
     private Double meanLongitude;
-
     private PlanetType planetType;
     private List<Planet> satellites;
+
+    public Planet(String name, LocalDateTime epochTime,
+                  Double inclination, Double semiMajorAxis,
+                  Double eccentricity, Double orbitalPeriod,
+                  Double longitudeOfAscendingNode,
+                  Double longitudeOfPeriapsis, Double meanLongitude,
+                  PlanetType planetType) {
+
+        this.name = name;
+        this.epochTime = epochTime;
+        this.inclination = inclination;
+        this.semiMajorAxis = semiMajorAxis;
+        this.eccentricity = eccentricity;
+        this.orbitalPeriod = orbitalPeriod;
+        this.longitudeOfAscendingNode = longitudeOfAscendingNode;
+        this.longitudeOfPeriapsis = longitudeOfPeriapsis;
+        this.meanLongitude = meanLongitude;
+        this.planetType = planetType;
+        this.satellites = new ArrayList<>();
+
+    }
 
     public String getName() {
         return name;
@@ -97,27 +117,6 @@ public class Planet {
 
     public void setPlanetType(PlanetType planetType) {
         this.planetType = planetType;
-    }
-
-    public Planet(String name, LocalDateTime epochTime,
-                  Double inclination, Double semiMajorAxis,
-                  Double eccentricity, Double orbitalPeriod,
-                  Double longitudeOfAscendingNode,
-                  Double longitudeOfPeriapsis, Double meanLongitude,
-                  PlanetType planetType) {
-
-        this.name = name;
-        this.epochTime = epochTime;
-        this.inclination = inclination;
-        this.semiMajorAxis = semiMajorAxis;
-        this.eccentricity = eccentricity;
-        this.orbitalPeriod = orbitalPeriod;
-        this.longitudeOfAscendingNode = longitudeOfAscendingNode;
-        this.longitudeOfPeriapsis = longitudeOfPeriapsis;
-        this.meanLongitude = meanLongitude;
-        this.planetType = planetType;
-        this.satellites = new ArrayList<>();
-
     }
 
     public void setSatellites(List<Planet> satellites) {

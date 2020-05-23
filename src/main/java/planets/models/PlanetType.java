@@ -1,6 +1,7 @@
 package planets.models;
 
 public enum PlanetType {
+
     LUNAR("lunar"),
     PLANET("planet"),
     COMET("comet"),
@@ -15,4 +16,5 @@ public enum PlanetType {
     public String toString() {
         return this.name;
     }
+
 }

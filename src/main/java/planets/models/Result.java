@@ -11,11 +11,11 @@ public class Result {
     private double eccentricAnomaly;
     private double trueAnomaly;
     private double radiusVector;
-    private XYZCoords heliocentric;
+    private XYZCoords xyzFromParent;
 
     public Result(Planet planet, Planet orbitsAround, double meanAnomaly,
                   double eccentricAnomaly, double trueAnomaly,
-                  double radiusVector, XYZCoords heliocentric, LocalDateTime dateTime) {
+                  double radiusVector, XYZCoords xyzFromParent, LocalDateTime dateTime) {
 
         this.planet = planet;
         this.orbitsAround = orbitsAround;
@@ -23,7 +23,7 @@ public class Result {
         this.eccentricAnomaly = eccentricAnomaly;
         this.trueAnomaly = trueAnomaly;
         this.radiusVector = radiusVector;
-        this.heliocentric = heliocentric;
+        this.xyzFromParent = xyzFromParent;
         this.dateTime = dateTime;
     }
 
@@ -39,7 +39,7 @@ public class Result {
                  "True anomaly : " + trueAnomaly + " rads (" + Math.toDegrees(trueAnomaly) + " degs)" +
                         '\n' +
                  "Radius vector : " + radiusVector + '\n' +
-                 "Heliocentric (geocentric for satellites) coordinates : " + heliocentric + "\n\n";
+                 "XYZ  coordinates from parent (heliocentric\\geocentric\\other) : " + xyzFromParent + "\n\n";
     }
 
 

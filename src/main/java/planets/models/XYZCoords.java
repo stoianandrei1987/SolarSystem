@@ -1,6 +1,7 @@
 package planets.models;
 
 public class XYZCoords {
+
     private double x;
     private double y;
     private double z;
@@ -13,6 +14,7 @@ public class XYZCoords {
 
     @Override
     public String toString() {
+
         return "XYZCoords{" +
                 "x=" + x +
                 ", y=" + y +
