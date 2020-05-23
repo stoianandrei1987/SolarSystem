@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d930997-f1d8-4cb9-a0f9-b6c4321db486" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/planets/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/planets/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/planets/models/Planet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/planets/models/Planet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/planets/models/PlanetType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/planets/models/PlanetType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/planets/models/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/planets/models/Result.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/planets/models/XYZCoords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/planets/models/XYZCoords.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/planets/services/Calculate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/planets/services/Calculate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/planets/services/IOUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/planets/services/IOUtils.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
