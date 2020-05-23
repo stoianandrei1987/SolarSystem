@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3d930997-f1d8-4cb9-a0f9-b6c4321db486" name="Default Changelist" comment="" />
+    <list default="true" id="3d930997-f1d8-4cb9-a0f9-b6c4321db486" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Calculate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/planets/services/Calculate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/IOClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/planets/services/IOUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/planets/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Planet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/planets/models/Planet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PlanetType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/planets/models/PlanetType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/planets/models/Result.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/WriteFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/planets/WriteFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/XYZCoords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/planets/models/XYZCoords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Calculate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/IOClass$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/IOClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Planet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PlanetType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Result.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/WriteFile$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/WriteFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/XYZCoords.class" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +36,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -24,6 +47,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1c7nQdKDZXVxc5Xh5JJWw5DVyHM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
@@ -42,30 +66,30 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.WriteFile">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Calculate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Calculate" />
+      <option name="MAIN_CLASS_NAME" value="planets.services.Calculate" />
       <module name="SolarSystem" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+      <option name="MAIN_CLASS_NAME" value="planets.Main" />
       <module name="SolarSystem" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Planet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Planet" />
+      <option name="MAIN_CLASS_NAME" value="planets.models.Planet" />
       <module name="SolarSystem" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="WriteFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WriteFile" />
+      <option name="MAIN_CLASS_NAME" value="planets.WriteFile" />
       <module name="SolarSystem" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -73,8 +97,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.WriteFile" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.WriteFile" />
         <item itemvalue="Application.Calculate" />
         <item itemvalue="Application.Planet" />
       </list>
@@ -93,27 +117,40 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Planet.java</url>
-          <line>118</line>
+          <url>file://$PROJECT_DIR$/src/main/java/planets/models/Planet.java</url>
+          <line>120</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Calculate.java</url>
-          <line>108</line>
+          <url>file://$PROJECT_DIR$/src/main/java/planets/services/Calculate.java</url>
+          <line>112</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Main.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/planets/Main.java</url>
           <line>8</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Calculate.java</url>
-          <line>91</line>
+          <url>file://$PROJECT_DIR$/src/main/java/planets/services/Calculate.java</url>
+          <line>95</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>

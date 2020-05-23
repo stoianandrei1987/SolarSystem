@@ -1,3 +1,5 @@
+package planets.models;
+
 public class XYZCoords {
     private double x;
     private double y;

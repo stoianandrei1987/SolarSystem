@@ -1,3 +1,5 @@
+package planets.models;
+
 import java.time.LocalDateTime;
 
 public class Result {
@@ -37,15 +39,8 @@ public class Result {
                  "True anomaly : " + trueAnomaly + " rads (" + Math.toDegrees(trueAnomaly) + " degs)" +
                         '\n' +
                  "Radius vector : " + radiusVector + '\n' +
-                 "Heliocentric coordonates : " + heliocentric + "\n\n";
+                 "Heliocentric (geocentric for satellites) coordinates : " + heliocentric + "\n\n";
     }
-
-    /*
-    private XYZCoords geocentricEcl;
-    private XYZCoords geocentricEqu;
-     private double ascension;
-    private double declination;
-     */
 
 
 

@@ -1,3 +1,5 @@
+package planets.models;
+
 import java.time.LocalDateTime;
 import java.util.ArrayList;
 import java.util.List;
@@ -128,7 +130,7 @@ public class Planet {
 
     @Override
     public String toString() {
-        return "Planet{" +
+        return "planets.models.Planet{" +
                 "name='" + name + '\'' +
                 ", epochTime=" + epochTime +
                 ", inclination=" + inclination +

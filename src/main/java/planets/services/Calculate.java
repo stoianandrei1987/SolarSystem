@@ -1,3 +1,9 @@
+package planets.services;
+
+import planets.models.Planet;
+import planets.models.Result;
+import planets.models.XYZCoords;
+
 import java.time.LocalDateTime;
 import java.util.ArrayList;
 import java.util.List;

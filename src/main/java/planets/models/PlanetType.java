@@ -1,3 +1,5 @@
+package planets.models;
+
 public enum PlanetType {
     LUNAR("lunar"),
     PLANET("planet"),
