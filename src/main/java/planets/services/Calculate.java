@@ -45,6 +45,7 @@ public class Calculate {
                planet.getMeanLongitude() - planet.getLongitudeOfPeriapsis();
         res = toRadians(res);
         return fixRes(res);
+     //   return res;
     }
 
 
@@ -89,7 +90,8 @@ public class Calculate {
     }
 
     public static double roundDownDecs(double number) {
-        return (double) Math.round(number * 1000d) / 1000d;
+        if(number<0) return (double) Math.ceil(number * 1000d) / 1000d;
+        else return (double) Math.floor(number *1000d) /  1000d;
     }
 
     public static double fixRes(double res) {
